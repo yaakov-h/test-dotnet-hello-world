@@ -2,7 +2,6 @@ using System;
 using System.IO;
 using System.Text;
 using NUnit.Framework;
-using hello_world;
 
 namespace hello_world.Test
 {
